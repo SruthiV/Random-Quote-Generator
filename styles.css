@@ -1,4 +1,20 @@
 body{
 	font-family: 'Roboto', sans-serif;
-	color: #000;
+	color: #fff !important;
+	background-color: #E2B1B1 !important;
+}
+
+#heading{
+  text-align: center;
+	font-family: 'Dancing Script', cursive;
+	padding-bottom: 50px;
+}
+
+#quoteButton{
+	text-align: center;
+}
+
+#quoteDisplay{
+	text-align: center;
+	font-size: 20px;
 }
