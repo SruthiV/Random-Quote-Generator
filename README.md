@@ -2,4 +2,6 @@
 
 A random quote machine that displays a random Calvin and Hobbes quote.
 
-# Live: https://sruthiv.github.io/Random-Quote-Generator/
+# Live
+
+https://sruthiv.github.io/Random-Quote-Generator/
