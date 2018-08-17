@@ -1,20 +1,28 @@
-body{
-	font-family: 'Roboto', sans-serif;
-	color: #000 !important;
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #000 !important;
 }
 
-#heading{
-  	text-align: center;
-	font-family: 'News Cycle', sans-serif;
-	margin-bottom: 110px;
+#heading {
+  text-align: center;
+  font-family: 'News Cycle', sans-serif;
+  margin-bottom: 110px;
 }
 
-#quoteButton{
-	text-align: center;
+#quoteButton {
+  text-align: center;
 }
 
-#quoteDisplay{
-	text-align: center;
-	font-size: 20px;
-	margin-bottom: 100px;
+#quoteDisplay {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 100px;
+}
+
+.fa-left {
+	margin-right: 500px;
+}
+
+.fa-right {
+	margin-left: 500px;
 }
